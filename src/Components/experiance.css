@@ -1,0 +1,56 @@
+/* Base styles for the experience section */
+.experience-container {
+    background-color: white;
+    padding: 20px;
+    /* border-radius: 8px; */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    /* max-width: 800px; */
+    margin: 0 auto;
+  }
+  
+  .experience-item {
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin: 0;
+  }
+  
+  #line {
+   text-shadow: 5px 4px 25px;
+  }
+  
+  .company-name {
+    color: blue;
+  }
+  
+  /* Media queries for responsive design */
+  @media screen and (max-width: 768px) {
+    .experience-container {
+      padding: 15px;
+    }
+    
+    h1 {
+      font-size: 20px;
+    }
+    
+    .experience-item {
+      margin-bottom: 15px;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .experience-container {
+      padding: 10px;
+    }
+    
+    h1 {
+      font-size: 18px;
+    }
+    
+    .experience-item {
+      margin-bottom: 10px;
+    }
+  }
+  

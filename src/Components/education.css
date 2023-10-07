@@ -1,0 +1,46 @@
+/* Default styles */
+.education-container {
+    background-color: white;
+    padding: 20px;
+    font-family: "serif";
+  }
+  
+  .section-title {
+    font-size: 50px;
+  }
+  
+  .education-item {
+    margin-top: 20px;
+  }
+  
+  .degree {
+    font-family: "monospace";
+    font-size: 24px;
+  }
+  
+  .institution {
+    font-family: "serif";
+    font-size: 18px;
+    color: #555;
+  }
+  
+  .date {
+    font-size: 14px;
+    color: #888;
+  }
+  
+  /* Media query for responsiveness */
+  @media screen and (max-width: 768px) {
+    .section-title {
+      font-size: 36px;
+    }
+  
+    .degree {
+      font-size: 20px;
+    }
+  
+    .institution {
+      font-size: 16px;
+    }
+  }
+  

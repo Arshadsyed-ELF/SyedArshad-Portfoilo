@@ -1,0 +1,40 @@
+/* Base styles for the Projects component */
+.carousel-container {
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  .carousel-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+  }
+  
+  .carousel-item img {
+    width: 100px;
+    height: 300px;
+    margin-bottom: 10px;
+  }
+  
+  /* Media query for smaller screens */
+  @media screen and (max-width: 768px) {
+    .carousel-container {
+      padding: 10px;
+    }
+  
+    .carousel-item {
+      padding: 15px;
+    }
+  
+    .carousel-item img {
+      width: 80px;
+      height: 80px;
+    }
+  }
+
+  
