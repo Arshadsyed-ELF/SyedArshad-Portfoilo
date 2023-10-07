@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/SyedArshad-Portfoilo/static/css/main.b7c5b975.css",
+    "main.js": "/SyedArshad-Portfoilo/static/js/main.8fb633db.js",
+    "static/js/787.1f11dfe9.chunk.js": "/SyedArshad-Portfoilo/static/js/787.1f11dfe9.chunk.js",
+    "static/media/color-sharp.png": "/SyedArshad-Portfoilo/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/p1.png": "/SyedArshad-Portfoilo/static/media/p1.163261da8edd696b879c.png",
+    "static/media/photo1.png": "/SyedArshad-Portfoilo/static/media/photo1.69fde118787eb0bd5ece.png",
+    "static/media/banner.jpg": "/SyedArshad-Portfoilo/static/media/banner.cf71c8f51738f1782027.jpg",
+    "static/media/p3.png": "/SyedArshad-Portfoilo/static/media/p3.3e21d8dcd650f68db10c.png",
+    "static/media/header-img.svg": "/SyedArshad-Portfoilo/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/SyedArshad-Portfoilo/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/SyedArshad-Portfoilo/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/SyedArshad-Portfoilo/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/p4.png": "/SyedArshad-Portfoilo/static/media/p4.3a109ab5daada59e496f.png",
+    "static/media/footer-bg.png": "/SyedArshad-Portfoilo/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/revicons.eot": "/SyedArshad-Portfoilo/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/SyedArshad-Portfoilo/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/SyedArshad-Portfoilo/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/SyedArshad-Portfoilo/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/SyedArshad-Portfoilo/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/SyedArshad-Portfoilo/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/nav-icon3.svg": "/SyedArshad-Portfoilo/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon4.svg": "/SyedArshad-Portfoilo/static/media/nav-icon4.ab75ec34d2f5b66e0c7b792bf16e46c2.svg",
+    "index.html": "/SyedArshad-Portfoilo/index.html",
+    "static/media/nav-icon1.svg": "/SyedArshad-Portfoilo/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/nav-icon2.svg": "/SyedArshad-Portfoilo/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.b7c5b975.css.map": "/SyedArshad-Portfoilo/static/css/main.b7c5b975.css.map",
+    "main.8fb633db.js.map": "/SyedArshad-Portfoilo/static/js/main.8fb633db.js.map",
+    "787.1f11dfe9.chunk.js.map": "/SyedArshad-Portfoilo/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7c5b975.css",
+    "static/js/main.8fb633db.js"
+  ]
+}
